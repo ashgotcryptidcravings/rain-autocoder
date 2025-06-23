@@ -1,0 +1,4 @@
+  File "c:\RAIN PROJECT\Autocoder\tasks\task-local-001\generated_code.py", line 29
+    If you are running this script in an environment where it doesn't have access to the necessary permissions or if your system is not a laptop with a battery, it will show "No battery found."
+                                                                   ^
+SyntaxError: unterminated string literal (detected at line 29)

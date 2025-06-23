@@ -1,0 +1,4 @@
+  File "c:\RAIN PROJECT\Autocoder\tasks\task-cpu-usage-001\generated_code.py", line 1
+    Here's the corrected Python script:
+        ^
+SyntaxError: unterminated string literal (detected at line 1)
